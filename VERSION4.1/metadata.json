@@ -1,0 +1,88 @@
+{
+    "algorithm_type": "classifier",
+    "class_names": [
+        "MC",
+        "MA",
+        "CB"
+    ],
+    "commit": "bb711f54",
+    "compilation_date": "2025-06-28T18:26:30.862762",
+    "compilation_flags": {
+        "float_abi": "hard",
+        "fshort_enums": true,
+        "short_wchar": false
+    },
+    "compilation_str": "{'compilation_dict':{'request_type':'library','api':{'env':'PROD','version':'v3'},'version':{'web_api':{'env':'PROD','version':'v3'},'local_api':{'version':'2025.04.04.1','platform':'win64'},'studio':'5.0.2'},'compilation_flags':{'float_abi':'hard','short_wchar':false,'fshort_enums':true,'use_knowledge':false},'mcu':'cortex-m4_st_stm32l4_b-l4s5i-iot01a','sensor':'multiGeneric','request_origin':'manual','algorithm_type':'classifier','lib_version':'v2_bb711f5','info':{},'class_names':'MC,MA,CB','results':[{'result_id':1509,'combination':[0,[7,8,25,24,22,18,21,26,23,20,5,6,10,11,16,19,14,13,17,1,12,15,0,3,2,9,4],27,0,1,1,[145],84,0.761,64,4,0.647,0,1,1,3,0,0.0,0.0,1000000.0,1,0,0,0,1],'model':4,'performance':{'performance':{'score':0.9886,'precision':0.9934,'precision_confidence_interval':[0.9639,1.0]},'memory_usage':{'estimated_ram':1218,'estimated_flash':5044,'estimated_flash_knowledge':null}},'learning_min_lines':null,'knowledge_dat':'eNrlmPlXj_vbxSuFRpVKk0-UCilSTuhzv6-7UCqFJqJIqFSEnJAKDURIpdKkVFSkZGr63O_rLkNIhCZEKimJcBwnQ3nOep4fvuv5G757rdda-1rr-n3vtcXE_rslPv7Agv9mxMRUrKdufkvUYhYwjicE_B-CWpgolYgh2otAdjANrw1k4cNsK5QV5lNN12Awcc6iqzu6aJPwJN0q-k0f74rEjlhJGEhWpRu63qFv1Ris_nWbHvjohtn7J5DmPR6QXqROrAa-0qYkXbAv_8i82B8FLccTMHlVPQypp5Desm66-Xw6GDuzMLNbB5qntDAzR46SgMmTyLU143nDvECYLdtMQk3_JmW22tiUvARvHNek5XKHqUDjD7gZpEiCGk3JEl4XNeMnoH2jC06f0UISplYSr7Wu2KiSwxSbZFNrwRj8utOT8b17g8g2LyV7B8xo_vNpxKZvElVaEgQbWrRxONQA3M7FQe-tz7RlxmqIeX9E6OezHJb3hwurnfs5tUIxsiFSAcPWJ5H2Nfbg26lA_q59wGW7h1E2VYGaO3RzScNpxLe7mIn8bCBclTpM49bUUHv3O_SJ9B3SEjJAjnx7Tpt81ElYRTyVVFemg5lb6O7rs8gHN0_yDgq4EDcNZjTdio4840jV_vHUPbeFaAUVAjEOpikym0h14Seht-Ay8Z-8jO5XWkTU3uoRAwGHb_LtIG7UgwUxdVGI_UxMv2uF5HWVUPtQj7DgnjlY_MoiFx4qwyotad7M9ComZe5BW-Ui-DFtHezyEKKi9hdGSWEOhhhZo11vAdV4-4FJ3dVDcmdeocUH-sl3yY20pqUfLGW-UYtlK8HKN4S9uuMS1X3uDF_Mq-kK3WHYvFckKt4_FouthdB77R4r8NMiG12srTwhBfG0BVF9lIF-GVFgqScNwkud5KdFIiy88RV8_7rMj7Nby0cGjOf_DDdm7Q95sslbgCYKyqE5UYyf-i4cu2-eQLO6iUiqk0j3nlMYzc-GaJ0azkgylB1TMQl8Kvs4YwUnq1t1U3CTzD64sUKJP7_yGJtWII6Wikqw674WLGpZiV2909nX76vZN1I6cDNVnk_y1-OvpEjgX79zqfppcXbfQDEp1gwDzylpvMtNd75byonfE27NPpsgw6o5L-YDlPxJ0CpFXt_pK6p_vkSjvmVD5vwN0LKiCP8edxV8nnLCO3uPs2p9WXgRDNneU9pWrl9ycXOvKVsYo4EpSUns-lNpjNTIYSI97ETuGdnwg9XnwCTpLZyKP0OiMk5j87arGKofxa33jKWRCavgavI1Yuj_kXA7X-N9sytYeO4-OopiQatkLbjuf4vVPR-rF4dbIzF3Q4eNhdzp2j5yOrOLxBd1Up3NYiB1PItjPSRYrw-u-GRMBeilLmfT_STRdXs5uA7NpxctXoJDGzJG6yu5RrOT9KTxc457swEFfTsx66EuXbjFFm49nQo_X35nBI0zSNspBteFvrc80SNPje_Zg0TpL3KzaAvYabVT_04x1N8XBAkmgWR7lBbs0FEC-rmWO9_bS7Pa2zle4gHRq46kov1yXH3TctzXrw2OvgLs_inLK1-LJ4JCMwz1NqEPjbdgyDQVyjmZEM-hBVUH5Q6iy9YAYpNbgOsOr2buHlOhc66Xc1PjZtHCuSup_o-7zMv6R5yX7Wz6IFNIVBWrSWtHvOgwytIECXsq82cprRl7latZfI7pbezketskycn7d5n8R6OMZZ03EV8_mwxJ5Yi-X1WghseWWKr8s5q01uTgq-dLRe-kLWmZ3Dwi6bGRFs0c4va6L4KnM0PJDkpqi8XF2GUX9fmlq3zBzKoULcKLMa32EzUYqKcD6iJoyJ5ED8SFi-b9kkdB-Gw8KVuHre83wEgTMu-s1Hnj8ke00vUmlfqRiOtrO5njTmngPOU3eTxjCm5M_URUGgWUWNaCT1scjtkowa4asORJgw12uDyAjzMvkj1lReDqd5dT7TZkL291gOlab2ovfBxvZU85_tanAFavqJlP_7OOr_om4EdTv2CfVAUrmTWj5rGYNic_Jp6fXLiT35l8j_8tGcOGaPcRlQRBbf0f91HsoCPvI3-SD-LrSfm6dHbf6AhsyJTjdW2BlVt2Vhhd_5Kd_jGND58_xmpd5zjG1Hw23xnZyL7dLMX2_P2A3SQuDlKilpoNgnGcVNCoSFKpmGorW5APQemizsQTRKfUhzRIFAujmhSJfX8cnWmfzeU_dOcyf8eT6T_zSOJcZzInP4eWzVChkhXt5L6nlmXxP8fIZYeDRMrkTHVTWwINnB1DJ7N2ZIrqBI55f5HRtDhOoyo0CKd3iJZ7LUWZHz6iz5ffU-3zsbThcy0d2bWSttbHceandnDjUgvRKvIufZipXXPveR4df1SL_GVcyJT3riSDo9bEWRhLz-WN45S84ohkVYaoL2EpKZtYSs6WLqRzbDQ5R1Vf0j31LqOoWMZI_UojGjm76Bu_NOocuo8pmbiWuH9cR7USTnL7lurR2w1WxP76QcorrcHSH8nMjmd7qVFjBHUryGW0knu46bv3YuzRP7kZ3V7s7Y1CviTmGAxm5-NrCXXWonIU0jODQfhiObRGj2LQDV-i-KyNcShrglt_lgO3fwQq71_G1xMyRAeVXNlfPXIQuyQCwtrLYY2PgB5aU4vfImbg505vaA45iTuMgpnG-Wr84642-D5ozvtcX8SP_hkA04z-QTTywoiZ31Bn51vuhOQtvK14iXs0L4V1dNzON_hMYCu7JXi5d84sG6vHhkuVwFcFXxAvM-A72APEwm8D6VNsB1XuOlSkT2V9U17g1FRnsvzpPjZt3Do47J0Gtm5_wWJjVVxGZfj1t-zwEhcHwTEXsLxahrh8n8FPSdViDaYF8iWzTPjmB-dhmpSQv61xGw0bNPhPmiupwEzAvxFbQzfcjLOyO1DHD7bms5uDXPldtbls5WAsu-LTWDavrA2Gd8TwrxYiyWC_En2XKeyMJ-Js6tE4tuWUBr8qZyoZ8H7O0qOvAK36YekChp0bmEsvng7ih5Wu4YWGWggU_oNxNgqiW2oH-DA9T3auyS1exrGNRJf8gIm_E3lXf2l-XuRW3vRLMy1YJ4Hy9jUkVXOQ-lUroF2THovS4uii8o7EXtalq-T7SPq4NmIEhXTYbiIJcrpJvuU6oFenGeqq3-U8Dp0lXbJ7wc50JgmbcZsMRY3Ha5sfM55p12jkqnj6sLFF6DuQSs8XaRDdfHPhukXKEOYoBw3vamnh-UpoqVtBtziNpcVPghFK5MHmvi5jWm9LmzWUuBU5wyTkVRV180H6M3pQJF3RTUrulBLf84ZkZdkhsjaI0pk6zaL50RZMwt5nZP6TbuJp8IhcuBFM8w8tpsEtz4hD1y-uP3YcaVFXI5VFNqRg5BFlIg1r5DUWkd892rSoajaddX0Sht1sYJir1yjd6oXFv9oYy6kS2N54gvH70EP1tTUZ24oszt0omtZ9Usfvx8Xp_IRcnK5wm_mx24B7fllEgkunM3bJnTUigx-WsT-taY3-da4-wxEGtlLSMaeNFLttpUzYQ7q4IYE5KxdAKz2ApPhNJb2XwolhyQHGZMURkf3fdsyvaVPokS1mIiV3E2zYNZH5bhpAXVsl-O43Dgy_V5pyQffJtryvtOxzjeiBVjFtDZBA-1BTlr7vQKcpUfyLwitczc79MPvOK3ArkSPu8m4kUOsCdrd_pUPzVqPc0xWsf58Wu_uoLDurTo43WPAaNxd8h6Yv1-l4AcLQ6lJIH-0i1Z33qOM1ddym5gTrZS3RLuEq16HH8BdVdGB6Hocz-_L4_V0CyBh8i12zPOBd3iJ-ZPAiU6eUAX4KUvhMKRPtNe_B7LEveSWPdzAl5h4W6_dyL17E43zdbWi2OgSiunTQPB1xy-7JbPHpK6Bd706-vfFG7cLxfOjNOOwMrMW_7IPg1BlHGm-wFQ5FX4SWub0cbcwmbUmLhOP614uOb0_Gl2XHUSP8EuRGlPIRMhmioy_HwNDYN-C7eAC9m8fDRod-apiQI7zqlghqUqWoP2MT9geyOMHVExReeoOL5Cuitocn39ytMFHHkAuMUKNzlm-BkYiFMMMyBsL7bLBHs5Ke_FYBe9IKmcKIP-DF4tUwOYswWSZ2KFnwiFrGyILf6j6qqziB6Azewsfmc8HVIQw9jzWh-CYF2Kkejc5F0bTGKQ3LskPp9XnayGrV0METa9jhilqUL9uM3Nsqmn_3Gux1yYHKT3fJLaNfZOlwBI44GdArZq_pyZfPQHA7Cwbv58MVnSP4oVYHw2UGwTLynMhiMATqfqwAv93WjI1CEI78GoOXL7wmI5ksGtYqCye1DmNbAoHy8vto62jGt25dAh26hWjjwnHBTCdqXxLSD7XuaLLuErM5QIr92UsxwFYWHm3dhCNcNTyO94GSlgmgh3fIlLzd-DPKm6R7JxLrjiFy7sJkaFc_CLuzm-mnkhskWtgDH9oU4G2DHBT8VobF7CFaUHcalcpeU-dXT0jedG002jmN2nkcRN2j_hBpeAOLBg7g1JBxEOQdha0KCrh-px7WV6fSA--08LNrMpFLU8BLxBBtGzMhnnXFtgufiLJ2DbG4cZ00CPLJ3HP1dO-LArJ7QSERH12IwrBJqLNuPzm8J5GkPJ4AKuZyMPnzKDkttYfu1b7Djf4jhndfSuBkD2XmYVgVd_HpQ6bDW5IJP5xM5l2aDhs6pLF00JT2xMiTE2sfce1dy3BS9USoT8ygjl3Z9KPfbqKxzJSNWdFMd3E12HdxDzWKiCVTLCczc-EFUXu1iDG0ViNHZM8Q_VW1JOl5LX1tmEPbMl8y_lvnkk-jnSSsepSk_JNPetRVaE3uGrrxpA337HQ-7dUV0CrPKJr5WY4OnJIls_Q_MlUDueSl4hi8k3sQS1x8mEYNGWroWU1VREnk-5gUxnXgBN0w4SR95LcPbm1Pws6zOaDxrJa6JG6CpcwxSL4yj4RIGxHVTH8syfOgV4bP0rD2XgjLvQDSDZdgm08OurkJ8MbhPGgLuCKUd_CCI7t84Xb0c0ZBXRWv-1-hzbfk4fBpVYxYuYJ5GPcTU8xV4WDhYRQLacWUMxMgoiIeWdU9TE76KF6VbRGKAvTgsrIMKn2ZTtSiLWmdVyg3faMHadDYAssGz7CBziW8vncp_D2rDL2GIqA9T8AXa0Sx_UnVrG3_QZBoX4hDtqbEVC0FJ40_BU8aTLDQUxwPnN4HkqPL0URZHeeiDKyW3c2ZPuii96JqSe-RRk653BZuDm3DtR9NQe_bMWoT18Ts6bIkMV5ymLq8gdlZn0HuzA6Gi8M5cFjxOKq255Gjc4SQGL0OZ756Ro9URMOcwj3Yn_ZCNH7OHDx7fAXMbQ3DB99ecGUiAQRXlmDg-ToQTczGowtmob2PiGQlRDDdLgzjVikGZo3qGFnXSp8emQ0iB33cKd5Bto8d5lz_7dIdmzfCjadeKHuYI_Prm5jHtwup3r8ZMGZYmeo-KSYy09rojvy9RPOyGE5bU0NOVR0WhroG15SrnxAZO2mTsbPy8VhyBlx54ooXVfzBXLqOrr18BjxJCe7W3AHd3gv5ZU8P8pnHjdlJ2dtpaEQfedvE0a3uxqBPY9HgnRcsuRMFZ4kUumtt_rdTetM5qXn4bHEaXCjYSfZpNnMLC9NE_k-beK3AHmoopVkrJnaA_Rf4F-v_rE__e8P_-SLr_3iW_X8j1bRddv_5VbH-H_uzwe0='}],'data':{'nb_cols':64,'nb_lines':[[{'file_type':'class','nb_lines':200},{'file_type':'class','nb_lines':200},{'file_type':'class','nb_lines':200}]]},'only_emulators':false,'lock_type':100},'sign':250248,'license_key':'***'}",
+    "compile_emulators": true,
+    "compile_library": true,
+    "data": {
+        "nb_cols": 64,
+        "nb_lines": [
+            [
+                {
+                    "file_type": "class",
+                    "nb_lines": 200
+                },
+                {
+                    "file_type": "class",
+                    "nb_lines": 200
+                },
+                {
+                    "file_type": "class",
+                    "nb_lines": 200
+                }
+            ]
+        ]
+    },
+    "gcc_version": "arm-none-eabi-gcc (Arm GNU Toolchain 13.2.rel1 (Build arm-13.7)) 13.2.1 20231009",
+    "learning_min_lines": null,
+    "lib_limited": false,
+    "library_id": "686033d75dc907eeffc2ddcf",
+    "library_md5sum": "58910246ceb8a73e9421faf285db0828",
+    "mcu": "cortex-m4_st_stm32l4_b-l4s5i-iot01a",
+    "mcu_cpn": "B-L4S5I-IOT01A",
+    "mcu_display_name": "B-L4S5I-IOT01A - STMicroelectronics",
+    "mcu_family": "STM32L4+ Series",
+    "mcu_group": "demo",
+    "mcu_type": "cortex-m4",
+    "mcu_vendor": "STMicroelectronics",
+    "memory_usage": {
+        "flash": 2409,
+        "ram": 1197
+    },
+    "optimization_info": {},
+    "performance": {
+        "memory_usage": {
+            "estimated_flash": 5044,
+            "estimated_flash_knowledge": null,
+            "estimated_ram": 1218
+        },
+        "performance": {
+            "precision": 0.9934,
+            "precision_confidence_interval": [
+                0.9639,
+                1.0
+            ],
+            "score": 0.9886
+        }
+    },
+    "request_type": "library",
+    "sensor": "multiGeneric",
+    "studio_info": {
+        "local_api": {
+            "platform": "win64",
+            "version": "2025.04.04.1"
+        },
+        "studio": "5.0.2",
+        "web_api": {
+            "env": "PROD",
+            "version": "v3"
+        }
+    },
+    "user_info": {
+        "company": "Universidad De Sevilla",
+        "email": "vicmiralo4@gmail.com",
+        "first_name": "V\u00edctor",
+        "last_name": "Miranda"
+    }
+}
